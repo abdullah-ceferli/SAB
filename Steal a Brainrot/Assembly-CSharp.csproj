@@ -68,6 +68,7 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
+    <Compile Include="Assets\Kevin Iglesias\Human Animations\Scripts\SpineProxy.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />

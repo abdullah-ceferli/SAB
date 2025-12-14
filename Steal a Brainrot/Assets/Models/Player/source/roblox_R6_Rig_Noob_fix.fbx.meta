@@ -80,7 +80,87 @@ ModelImporter:
   humanDescription:
     serializedVersion: 3
     human: []
-    skeleton: []
+    skeleton:
+    - name: roblox_R6_Rig_Noob_fix(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Noob_BodyRig
+      parentName: roblox_R6_Rig_Noob_fix(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Noob
+      parentName: roblox_R6_Rig_Noob_fix(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Left Leg Attacher
+      parentName: Noob
+      position: {x: 0.002, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Leg Attacher
+      parentName: Noob
+      position: {x: -0.002, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Torso
+      parentName: Noob
+      position: {x: -0, y: 0, z: 0.008}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Torso
+      position: {x: -0, y: 0.008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_end
+      parentName: Head
+      position: {x: -0, y: 0.0044, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left Arm
+      parentName: Torso
+      position: {x: 0.004, y: 0.008, z: 0}
+      rotation: {x: 0.7071068, y: 0.00000003090862, z: 0.70710677, w: -0.00000003090862}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Left Arm_end
+      parentName: Left Arm
+      position: {x: -0, y: 0.008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Arm
+      parentName: Torso
+      position: {x: -0.004, y: 0.008, z: 0}
+      rotation: {x: 0.7071068, y: 0.00000003090862, z: -0.70710677, w: 0.00000003090862}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Right Arm_end
+      parentName: Right Arm
+      position: {x: -0, y: 0.008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left Leg
+      parentName: Torso
+      position: {x: 0.002, y: 0, z: 0}
+      rotation: {x: 1, y: 1.9106855e-15, z: 0.00000004371139, w: -0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left Leg_end
+      parentName: Left Leg
+      position: {x: -0, y: 0.008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Leg
+      parentName: Torso
+      position: {x: -0.002, y: 0, z: 0}
+      rotation: {x: 1, y: 1.9106855e-15, z: 0.00000004371139, w: -0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Leg_end
+      parentName: Right Leg
+      position: {x: -0, y: 0.008, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -88,14 +168,14 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.004
+    globalScale: 0.4
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
