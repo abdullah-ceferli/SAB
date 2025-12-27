@@ -6,14 +6,164 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
+    path: Assets/Scenes/Servers/Server 1.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Loading.unity
-    guid: b3259ed753c65a24990d685e74394a19
+    path: Assets/Scenes/Servers/Server 2.unity
+    guid: dbbbe64270139d94b9d2fd96e847f1d3
   - enabled: 1
-    path: Assets/Scenes/LoginSignUp.unity
+    path: Assets/Scenes/Servers/Server 3.unity
+    guid: 2fe859cd7553e39488159d1586d86020
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 4.unity
+    guid: 8f14f67a8d969304ca7a352ba00f08f3
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 5.unity
+    guid: 03053cb55d46b634dab132ca70e39968
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 6.unity
+    guid: 9df0de44223f97649b48f8417b2f61b5
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 7.unity
+    guid: 99244059fbc84e048b3820796a9fcddf
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 8.unity
+    guid: 36413554459f1444183c6ae8ddc7c72b
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 9.unity
+    guid: b4e88fb72e0cc9d478104ea117dbe9f9
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 10.unity
+    guid: 5a010cdb2123e914abe8bc70392add37
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 11.unity
+    guid: eb84d176bd4df0f43a1eea1f65b03fec
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 12.unity
+    guid: c93dfc9bdcd510e44b60618f05979936
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 13.unity
+    guid: d0d9dfcf12ef33a4e9d43ccaa2f32f4e
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 14.unity
+    guid: 59ceb6325010fd64d9a0976860e04d0c
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 15.unity
+    guid: 2d0bb77c966d0a14888cc8e7bec2d92e
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 16.unity
+    guid: b50e41516d0bf564e9a4664f134fec6c
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 17.unity
+    guid: e95075af4ce58f64699353465b48cf58
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 18.unity
+    guid: 0c3a74b11f1d6ff429ebc02d17e40d7f
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 19.unity
+    guid: e436ed81e178baf42bf3f92b30da9d61
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 20.unity
+    guid: eb8ffd9d2a5600a4db1fd7c1d5ceaed1
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 21.unity
+    guid: ad65ad6c4a90c8e41b1cdc8bd9c6d655
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 22.unity
+    guid: 606c4565656dbb34b8a62ddb8ce1beff
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 23.unity
+    guid: 0b79d0646245d6348a01cbb7ca648c22
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 24.unity
+    guid: ce74f2d6c43878549912a22c7e7ca6cb
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 25.unity
+    guid: ab4b280cb410ca14eb442229dd9c4f66
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 26.unity
+    guid: 2142407462d5a0b449d91e0051ce98f4
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 27.unity
+    guid: ff733b03bf0cb5849ba7db9d8f0ceac7
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 28.unity
+    guid: 28c070c256e76224399b01b08f97a352
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 29.unity
+    guid: 3be765280e6370b4ba274b2ed43ae5ef
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 30.unity
+    guid: 5fee2e030766e4347bf9b12788c408a7
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 31.unity
+    guid: 639ca167eba3c55449ee3ac3972d595f
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 32.unity
+    guid: 791feb6b626056e45bbc268b57ffb895
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 33.unity
+    guid: 1c6f8417b14d2254eb14f0b207778287
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 34.unity
+    guid: 6fbf3c6280e8a994baf7b71511712073
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 35.unity
+    guid: 7227b577341103844ad239f49e0856bd
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 36.unity
+    guid: 9b3d890e8a093834682371ee389accf8
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 37.unity
+    guid: 0a1191907a6eb364cac52b7adc661ad9
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 38.unity
+    guid: e20454b9550e45d49a9973741f74e8a1
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 39.unity
+    guid: 1842f7ca9f81ead4cac81b7dd799e8ba
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 40.unity
+    guid: 28a7a142b7bfcd34a8516b4d5cd028e7
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 41.unity
+    guid: f2e4edcfdf9fde24c8afccff6b138397
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 42.unity
+    guid: a09747d7148a0c24a81a2abb0ac9ce21
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 43.unity
+    guid: d25cb758ab7f3374b96b66ec349b2e3b
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 44.unity
+    guid: eb3636ed024c8a24296e4ef8c2b89df2
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 45.unity
+    guid: 9e764d947f89bfe47b1476ae52230f7e
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 46.unity
+    guid: 7082429b3563e6447a254b0762737156
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 47.unity
+    guid: 8ed2dd3536374aa40b9aed00d9641a22
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 48.unity
+    guid: 254df8f2459f1bb4eae59dbc1f341a84
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 49.unity
+    guid: 7c43287244187f140b5dec773a3d419b
+  - enabled: 1
+    path: Assets/Scenes/Servers/Server 50.unity
+    guid: 0faf66aca217fdb4692b1c2fd3c796d7
+  - enabled: 1
+    path: Assets/Scenes/SmallScene/Play.unity
+    guid: f2415aa8793759243859820df54ab7b0
+  - enabled: 1
+    path: Assets/Scenes/SmallScene/LoginSignUp.unity
     guid: 11c34147a1e07b54d9bde43accc1cf2a
+  - enabled: 1
+    path: Assets/Scenes/SmallScene/Loading.unity
+    guid: b3259ed753c65a24990d685e74394a19
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -1,22 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\unity games\\Steal a Brainrot\\",
+  "WorkspaceRootPath": "G:\\unity games\\SAB\\Steal a Brainrot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C12C65D-D43A-A3C2-415B-7BAB5CC92465}|Assembly-CSharp.csproj|g:\\unity games\\steal a brainrot\\assets\\script\\loading\\assetsscriptloadingadvancedloadingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C12C65D-D43A-A3C2-415B-7BAB5CC92465}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\loading\\assetsscriptloadingadvancedloadingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\unity games\\SAB\\Steal a Brainrot\\Assets\\Script\\Brainrot\\BrainrotMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Brainrot\\BrainrotMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C12C65D-D43A-A3C2-415B-7BAB5CC92465}|Assembly-CSharp.csproj|g:\\unity games\\steal a brainrot\\assets\\script\\smallscript\\rainbowtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\unity games\\Steal a Brainrot\\Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12C65D-D43A-A3C2-415B-7BAB5CC92465}|Assembly-CSharp.csproj|G:\\unity games\\SAB\\Steal a Brainrot\\assets\\script\\smallscript\\rainbowtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C12C65D-D43A-A3C2-415B-7BAB5CC92465}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\smallscript\\rainbowtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|g:\\unity games\\steal a brainrot\\assets\\script\\smallscript\\spiritgifplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\smallscript\\spiritgifplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\unity games\\Steal a Brainrot\\Assets\\Script\\SmallScript\\SpiritGifPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|g:\\unity games\\steal a brainrot\\assets\\script\\loading\\advancedloadingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\loading\\advancedloadingbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\unity games\\Steal a Brainrot\\Assets\\Script\\Loading\\AdvancedLoadingBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,33 +27,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SpiritGifPlayer.cs",
               "DocumentMoniker": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\SmallScript\\SpiritGifPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\SmallScript\\SpiritGifPlayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Steal a Brainrot\\Assets\\Script\\SmallScript\\SpiritGifPlayer.cs",
               "ToolTip": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\SmallScript\\SpiritGifPlayer.cs",
-              "RelativeToolTip": "Assets\\Script\\SmallScript\\SpiritGifPlayer.cs",
+              "RelativeToolTip": "..\\..\\Steal a Brainrot\\Assets\\Script\\SmallScript\\SpiritGifPlayer.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAmwCAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T19:36:34.225Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AssetsScriptLoadingAdvancedLoadingBar.cs",
-              "DocumentMoniker": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs",
-              "ToolTip": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs",
-              "RelativeToolTip": "Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T20:09:11.783Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -60,25 +48,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RainbowText.cs",
-              "DocumentMoniker": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\SmallScript\\RainbowText.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\SmallScript\\RainbowText.cs",
-              "ToolTip": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\SmallScript\\RainbowText.cs",
-              "RelativeToolTip": "Assets\\Script\\SmallScript\\RainbowText.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BrainrotMover.cs",
+              "DocumentMoniker": "G:\\unity games\\SAB\\Steal a Brainrot\\Assets\\Script\\Brainrot\\BrainrotMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Brainrot\\BrainrotMover.cs",
+              "ToolTip": "G:\\unity games\\SAB\\Steal a Brainrot\\Assets\\Script\\Brainrot\\BrainrotMover.cs",
+              "RelativeToolTip": "Assets\\Script\\Brainrot\\BrainrotMover.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T20:04:02.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T19:14:27.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "AssetsScriptLoadingAdvancedLoadingBar.cs",
+              "DocumentMoniker": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs",
+              "RelativeDocumentMoniker": "..\\..\\Steal a Brainrot\\Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs",
+              "ToolTip": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs",
+              "RelativeToolTip": "..\\..\\Steal a Brainrot\\Assets\\Script\\Loading\\AssetsScriptLoadingAdvancedLoadingBar.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:09:11.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RainbowText.cs",
+              "DocumentMoniker": "G:\\unity games\\SAB\\Steal a Brainrot\\Assets\\Script\\SmallScript\\RainbowText.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SmallScript\\RainbowText.cs",
+              "ToolTip": "G:\\unity games\\SAB\\Steal a Brainrot\\Assets\\Script\\SmallScript\\RainbowText.cs",
+              "RelativeToolTip": "Assets\\Script\\SmallScript\\RainbowText.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T20:04:02.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AdvancedLoadingBar.cs",
               "DocumentMoniker": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\Loading\\AdvancedLoadingBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Loading\\AdvancedLoadingBar.cs",
+              "RelativeDocumentMoniker": "..\\..\\Steal a Brainrot\\Assets\\Script\\Loading\\AdvancedLoadingBar.cs",
               "ToolTip": "G:\\unity games\\Steal a Brainrot\\Assets\\Script\\Loading\\AdvancedLoadingBar.cs",
-              "RelativeToolTip": "Assets\\Script\\Loading\\AdvancedLoadingBar.cs",
+              "RelativeToolTip": "..\\..\\Steal a Brainrot\\Assets\\Script\\Loading\\AdvancedLoadingBar.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T20:03:04.23Z"
